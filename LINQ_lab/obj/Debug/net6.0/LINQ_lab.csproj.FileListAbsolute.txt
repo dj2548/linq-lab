@@ -1,0 +1,15 @@
+C:\Users\Somber\source\repo 2\LINQ_lab\LINQ_lab\obj\Debug\net6.0\LINQ_lab.csproj.AssemblyReference.cache
+C:\Users\Somber\source\repo 2\LINQ_lab\LINQ_lab\obj\Debug\net6.0\LINQ_lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Somber\source\repo 2\LINQ_lab\LINQ_lab\obj\Debug\net6.0\LINQ_lab.AssemblyInfoInputs.cache
+C:\Users\Somber\source\repo 2\LINQ_lab\LINQ_lab\obj\Debug\net6.0\LINQ_lab.AssemblyInfo.cs
+C:\Users\Somber\source\repo 2\LINQ_lab\LINQ_lab\obj\Debug\net6.0\LINQ_lab.csproj.CoreCompileInputs.cache
+C:\Users\Somber\source\repo 2\LINQ_lab\LINQ_lab\bin\Debug\net6.0\LINQ_lab.exe
+C:\Users\Somber\source\repo 2\LINQ_lab\LINQ_lab\bin\Debug\net6.0\LINQ_lab.deps.json
+C:\Users\Somber\source\repo 2\LINQ_lab\LINQ_lab\bin\Debug\net6.0\LINQ_lab.runtimeconfig.json
+C:\Users\Somber\source\repo 2\LINQ_lab\LINQ_lab\bin\Debug\net6.0\LINQ_lab.dll
+C:\Users\Somber\source\repo 2\LINQ_lab\LINQ_lab\bin\Debug\net6.0\LINQ_lab.pdb
+C:\Users\Somber\source\repo 2\LINQ_lab\LINQ_lab\obj\Debug\net6.0\LINQ_lab.dll
+C:\Users\Somber\source\repo 2\LINQ_lab\LINQ_lab\obj\Debug\net6.0\refint\LINQ_lab.dll
+C:\Users\Somber\source\repo 2\LINQ_lab\LINQ_lab\obj\Debug\net6.0\LINQ_lab.pdb
+C:\Users\Somber\source\repo 2\LINQ_lab\LINQ_lab\obj\Debug\net6.0\LINQ_lab.genruntimeconfig.cache
+C:\Users\Somber\source\repo 2\LINQ_lab\LINQ_lab\obj\Debug\net6.0\ref\LINQ_lab.dll
